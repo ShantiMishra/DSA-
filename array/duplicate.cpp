@@ -8,7 +8,7 @@ void duplicate (int arr[], int size){
        }
          for ( int i=1; i<size; i++){
           ans=ans^i;
-           }  cout<<"Duplicate element is : "<<ans;
+           }  cout<<"Duplicate element is :  "<<ans;
 }
 
 int main(){
