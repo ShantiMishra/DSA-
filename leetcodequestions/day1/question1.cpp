@@ -18,12 +18,3 @@ public:
         return answer;
     }
 };
-int main(){
-    Solution S1;
-    int n;
-    cout<<"Enter a number :";
-    cin>>n;
-     int result=S1.subtractProductAndSum(n);
-     cout<<"The result is : "<< result<<endl;
-     return 0;
-}
