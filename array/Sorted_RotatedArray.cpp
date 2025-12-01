@@ -47,7 +47,7 @@ int findPosition(int arr[],int n, int key){
         return binarySearch(arr,0,pivot-1,key);
     }
 }
-
+          
 
 
 int main(){
