@@ -14,10 +14,13 @@ void mergeSorted(int arr1[],int n, int arr2[],int m , int result[]){
          }
     }
 
+
+    // Copying The remaining elements of arr1
     while(i<n){
         result[k++]=arr1[i++];
     }
 
+    // Copying the remaining elements of arr2
     while(j<m){
         result[k++]=arr2[j++];
     }
