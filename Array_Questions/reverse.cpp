@@ -1,4 +1,4 @@
- // Reverse an after a given number say m.
+ // Reverse an array after a given index say m.
 
 #include <iostream>
 using namespace std;
