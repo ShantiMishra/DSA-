@@ -17,7 +17,7 @@ bool rotatedSorted(int arr[] , int n){
     }
 
 
-    if(breakCount<=1){
+    if(breakCount<=1){         // if breakCount is more than 1 means the is not sorted 
         return true;
     }
     else{
