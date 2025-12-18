@@ -1,3 +1,5 @@
+// Palindrome or Not (Case sensitive).
+
 #include <iostream>
 #include <string.h>
 using namespace std;
