@@ -21,7 +21,7 @@ bool checkPalindrome(char a[] , int n){
 
 int main(){
     char name[20];
-    cout<<"Enter Your name : ";
+    cout<<"Enter Your String : ";
     cin>>name;
     int n = strlen(name);
     bool data = checkPalindrome(name,n);
