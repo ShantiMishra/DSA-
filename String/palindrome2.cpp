@@ -1,4 +1,4 @@
-// Palindrome or Not (Non-Case sensitive).
+//  Character Array...   Palindrome or Not (Non-Case sensitive).
 
 #include <iostream>
 #include <string.h>
