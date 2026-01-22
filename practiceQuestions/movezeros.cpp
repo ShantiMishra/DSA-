@@ -1,3 +1,6 @@
+ // Move all the zeros to the end of the array
+
+
 #include <iostream>
 using namespace std ;
 
