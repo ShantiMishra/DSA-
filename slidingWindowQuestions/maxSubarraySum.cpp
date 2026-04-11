@@ -12,7 +12,7 @@ int maxSubarraySum(int arr[] , int n , int k){
         windowSum += arr[i];
     }
 
-    maxSum = windowSum;
+    maxSum = windowSum; 
 
     // Sliding the Window ....
     for(int i=k; i<n ; i++){
