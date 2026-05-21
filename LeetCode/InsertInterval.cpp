@@ -1,3 +1,5 @@
+//Merge Interval (Insert Interval)
+
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
@@ -37,5 +39,6 @@ public:
         }
         res.push_back({start1,end1});
         return res;
+
     }
 };
